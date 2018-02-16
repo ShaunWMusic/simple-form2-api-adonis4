@@ -1,4 +1,7 @@
-# Adonis fullstack application
+### EMBERJS API
+
+
+# Adonis 4.1 fullstack application
 
 
 This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
@@ -30,5 +33,9 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+### Deployment
 To Deploy Adonis 4.0 to heroku follow this blog:
 https://scotch.io/tutorials/deploying-adonisjs-apps-to-heroku
+
+
