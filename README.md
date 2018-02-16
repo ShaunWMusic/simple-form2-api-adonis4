@@ -1,7 +1,7 @@
-### EMBERJS API
+# EMBERJS API
 
 
-# Adonis 4.1 fullstack application
+## Adonis 4.1 fullstack application
 
 
 This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
